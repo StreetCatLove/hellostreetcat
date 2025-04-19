@@ -27,7 +27,7 @@ We are suggesting you consider taking the following actions as you are able:
 
 ![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest.png){: .mx-auto.d-block :}
 
-Our #DivestFromTwitch Partners
+Contact me to join our #DivestFromTwitch Alliance!
 * <a href="https://allmylinks.com/adriennevixen">Adrienne Vixen</a>
 * <a href="https://beacons.ai/llarry">Leaping Larry</a>
 * <a href="https://kick.com/leninsmesh">Lenin Smesh</a>
