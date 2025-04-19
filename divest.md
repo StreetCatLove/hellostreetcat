@@ -31,3 +31,5 @@ Contact me to join our #DivestFromTwitch Alliance!
 * <a href="https://allmylinks.com/adriennevixen">Adrienne Vixen</a>
 * <a href="https://beacons.ai/llarry">Leaping Larry</a>
 * <a href="https://kick.com/leninsmesh">Lenin Smesh</a>
+
+![divest graphic alternate font](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_0.png){: .mx-auto.d-block :}
