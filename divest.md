@@ -22,6 +22,7 @@ We are suggesting you consider taking the following actions as you are able:
 * Display a #divestfromtwitch graphic on screen
 * Use timers to remind chat to divest
 * Add a !divest command
+* Add a divest pannel in your description
 * Plan a sunset date for your twitch content
 
 ![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest.png){: .mx-auto.d-block :}
