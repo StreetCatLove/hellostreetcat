@@ -1,6 +1,6 @@
 ---
 layout: page
-title: #divestfromtwitch
+title: Divest From Twitch
 tags: [Forbidden Knowledge]
 comments: false
 ---
