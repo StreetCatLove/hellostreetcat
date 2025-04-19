@@ -22,6 +22,8 @@ We are suggesting you consider taking the following actions as you are able:
 * Display a #divestfromtwitch graphic on screen
 * Plan a sunset date for your twitch content
 
+![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest.png){: .mx-auto.d-block :}
+
 Our #DivestFromTwitch Partners
 * <a href="https://allmylinks.com/adriennevixen">Adrienne Vixen</a>
 * <a href="https://beacons.ai/llarry">Leaping Larry</a>
