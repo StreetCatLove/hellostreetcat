@@ -23,6 +23,6 @@ We are suggesting you consider taking the following actions as you are able:
 * Plan a sunset date for your twitch content
 
 Our #DivestFromTwitch Partners
-* <li><a href="https://allmylinks.com/adriennevixen">Adrienne Vixen</a></li>
-* <li><a href="https://beacons.ai/llarry">Leaping Larry</a></li>
-* <li><a href="https://kick.com/leninsmesh">Lenin Smesh</a></li>
+* <a href="https://allmylinks.com/adriennevixen">Adrienne Vixen</a>
+* <a href="https://beacons.ai/llarry">Leaping Larry</a>
+* <a href="https://kick.com/leninsmesh">Lenin Smesh</a>
