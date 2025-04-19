@@ -20,6 +20,7 @@ We are suggesting you consider taking the following actions as you are able:
 * Deprioritize twitch chat interaction
 * Create alternatives to twitch points
 * Display a #divestfromtwitch graphic on screen
+* Use timers to remind chat to divest
 * Plan a sunset date for your twitch content
 
 ![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest.png){: .mx-auto.d-block :}
