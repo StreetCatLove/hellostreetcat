@@ -23,6 +23,7 @@ We are suggesting you consider taking the following actions as you are able:
 * Use timers to remind chat to divest
 * Add a !divest command
 * Add a divest pannel in your description
+* Make sub emotes available to everyone
 * Plan a sunset date for your twitch content
 
 ![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest.png){: .mx-auto.d-block :}
@@ -31,5 +32,6 @@ Contact me to join our #DivestFromTwitch Alliance!
 * <a href="https://allmylinks.com/adriennevixen">Adrienne Vixen</a>
 * <a href="https://beacons.ai/llarry">Leaping Larry</a>
 * <a href="https://kick.com/leninsmesh">Lenin Smesh</a>
+* <a href="https://bsky.app/profile/mamaemmedia.bsky.social">Mama Em Media</a>
 
 ![divest graphic alternate font](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_0.png){: .mx-auto.d-block :}
