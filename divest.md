@@ -25,6 +25,7 @@ We are suggesting you consider taking the following actions as you are able:
 * Add a divest pannel in your description
 * Make twitch sub emotes available to everyone
 * Plan a sunset date for your twitch content
+* Have a way to direct viewers to twitch ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">TwitchAdSolutions</a>
 
 ![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest.png){: .mx-auto.d-block :}
 
