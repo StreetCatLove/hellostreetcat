@@ -27,6 +27,11 @@ We are suggesting you consider taking the following actions as you are able:
 * Plan a sunset date for your twitch content
 * Have a way to direct viewers to twitch ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">TwitchAdSolutions</a>
 
+Follow the <a href="https://legal.twitch.com/legal/terms-of-service">Twitch TOS</a>. The simulcasting guidelines are:
+* You ensure that the quality of Twitch users’ experience of your Simulcast is, at a minimum, no less than the experience on other platforms or services, including by your engagement with the Twitch community, for example, via chat.
+* You do not provide links, or otherwise direct your community, to leave Twitch for your simulcast on other services because we value the community on Twitch and the integral role community engagement plays for all Twitch users.
+* You do not use third-party services that combine activity from other platforms or services on your Twitch stream during your Simulcast, such as merging chat or other features, to ensure the Twitch community is included in the entirety of the experience of your livestream.
+
 ![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest.png){: .mx-auto.d-block :}
 
 Contact me to join our #DivestFromTwitch Alliance!
