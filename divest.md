@@ -41,5 +41,6 @@ Contact me to join our #DivestFromTwitch Alliance!
 * <a href="https://bsky.app/profile/mamaemmedia.bsky.social">Mama Em Media</a>
 * <a href="https://neuroriot.net/">Neuroriot</a>
 
+![divest graphic by Adrienne Vixen](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_2.png){: .mx-auto.d-block :}
 ![divest graphic alternate font](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_0.png){: .mx-auto.d-block :}
 ![divest graphic by Adrienne Vixen alt font](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_1.png){: .mx-auto.d-block :}
