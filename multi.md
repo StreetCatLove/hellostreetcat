@@ -5,7 +5,7 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-<h2>How to Multi-Stream, courtesy of our comrade <a href="https://neuroriot.net/">Neuroriot</a></h2>
+<h2>How to Multi-Stream on OBS, courtesy of our comrade <a href="https://neuroriot.net/">Neuroriot</a></h2>
 
 First determine what version of OBS you have installed. This should be in the top left corner of the window. Download the correct plugin for your OBS Version
 * <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/">Github obs-multi-rtmp releases page</a>
@@ -13,7 +13,7 @@ First determine what version of OBS you have installed. This should be in the to
 * <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.6.0.1/obs-multi-rtmp-0.6.0.0-windows-x64-Installer.exe">OBS 30 Windows exe Download</a>
 * If later you decide to upgrade to OBS 31, you will need to uninstall the old version and install the new one - your settings will transfer over
 
-Ensure OBS is not running, then run the exe to install.
+Ensure OBS is not running, then run the exe to install. (or complete another installation method)
 After install, open OBS. Then go to Docks -> Multiple output
 ![OBS Docks Screenshot](https://streetcatlove.github.io/hellostreetcat/assets/img/docks.png){: .mx-auto.d-block :}
 
@@ -30,6 +30,7 @@ Go to the tab Output and check both New Socket Loop & Low Latency Mode
 ![OBS Output Screenshot](https://streetcatlove.github.io/hellostreetcat/assets/img/output.png){: .mx-auto.d-block :}
 
 We reccomend to sync start with OBS & Sync stop with OBS. Do this by checking the boxes, then press OK.
+
 If you didn't check Sync start with OBS, then after you've started streaming go to the Multiple output window and press Start.
 
 You're done, enjoy multi-streaming!
