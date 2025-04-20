@@ -17,7 +17,7 @@ We are suggesting you consider taking the following actions as you are able:
 * Move your twitch link off of bio, to the bottom of links page
 * No twitch chat on screen
 * Remove verbal/on-screen/chat notifications of twitch events
-* Deprioritize twitch chat interaction
+* Prioritize chat interactions equally across platforms
 * Create alternatives to twitch points
 * Display a #divestfromtwitch graphic on screen
 * Use timers to remind chat to divest
