@@ -39,5 +39,6 @@ Contact me to join our #DivestFromTwitch Alliance!
 * <a href="https://beacons.ai/llarry">Leaping Larry</a>
 * <a href="https://kick.com/leninsmesh">Lenin Smesh</a>
 * <a href="https://bsky.app/profile/mamaemmedia.bsky.social">Mama Em Media</a>
+* <a href="https://neuroriot.net/">Neuroriot</a>
 
 ![divest graphic alternate font](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_0.png){: .mx-auto.d-block :}
