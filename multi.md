@@ -14,6 +14,7 @@ First determine what version of OBS you have installed. This should be in the to
 * If later you decide to upgrade to OBS 31, you will need to uninstall the old version and install the new one - your settings will transfer over
 
 Ensure OBS is not running, then run the exe to install. (or complete another installation method)
+
 After install, open OBS. Then go to Docks -> Multiple output
 ![OBS Docks Screenshot](https://streetcatlove.github.io/hellostreetcat/assets/img/docks.png){: .mx-auto.d-block :}
 
