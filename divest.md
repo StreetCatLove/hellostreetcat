@@ -12,7 +12,7 @@ We are suggesting you consider taking the following actions as you are able:
 * Discourage non-prime subs
 * Discourage buying bits
 * Promote buymeacoffee or similar over subs
-* Multi-stream to as many platforms as possible
+* <a href="https://streetcatlove.github.io/hellostreetcat/multi">Multi-stream</a> to as many platforms as possible
 * Prioritize other platforms in social media posts
 * Move your twitch link off of bio, to the bottom of links page
 * No twitch chat on screen
