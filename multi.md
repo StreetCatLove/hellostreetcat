@@ -5,12 +5,12 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-<h2>How to Multi-Stream on windows, courtesy of our comrade <a href="https://neuroriot.net/">Neuroriot</a></h2>
+<h2>How to Multi-Stream, courtesy of our comrade <a href="https://neuroriot.net/">Neuroriot</a></h2>
 
 First determine what version of OBS you have installed. This should be in the top left corner of the window. Download the correct plugin for your OBS Version
-* <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/">obs-multi-rtmp Releases page</a>
-* <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.6.0.1-obs31/obs-multi-rtmp-0.6.0.1-windows-x64-Installer.exe">OBS 31 Windows Download</a>
-* <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.6.0.1/obs-multi-rtmp-0.6.0.0-windows-x64-Installer.exe">OBS 30 Windows Download</a>
+* <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/">Github obs-multi-rtmp releases page</a>
+* <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.6.0.1-obs31/obs-multi-rtmp-0.6.0.1-windows-x64-Installer.exe">OBS 31 Windows exe Download</a>
+* <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.6.0.1/obs-multi-rtmp-0.6.0.0-windows-x64-Installer.exe">OBS 30 Windows exe Download</a>
 * If later you decide to upgrade to OBS 31, you will need to uninstall the old version and install the new one - your settings will transfer over
 
 Ensure OBS is not running, then run the exe to install.
