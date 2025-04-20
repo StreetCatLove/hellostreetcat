@@ -5,7 +5,7 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-Twitch just temp banned our comrade <a href="https://www.youtube.com/@lesbianhotsauce">LesbianHotSauce</a> for her account name, forcing ger to change it. This is just their latest in a long line of undeserved bans to leftist streamers including Leaping Larry, Lenin Smesh, Adrienne Vixen, and more. Amazon is a target of BDS. Its about time we #divestfromtwitch and create communities on other streaming sites 🍉
+Twitch just temp banned our comrade <a href="https://www.youtube.com/@lesbianhotsauce">LesbianHotSauce</a> for her account name, forcing her to change it. This is just their latest in a long line of undeserved bans to leftist streamers including Leaping Larry, Lenin Smesh, Adrienne Vixen, and more. Amazon is a target of BDS. Its about time we #divestfromtwitch and create communities on other streaming sites 🍉
 
 We are suggesting you consider taking the following actions as you are able:
 * Remove streamelements from stream, consider using firebot.app
