@@ -37,7 +37,7 @@ Follow the <a href="https://legal.twitch.com/legal/terms-of-service">Twitch TOS<
 Contact me to join our #DivestFromTwitch Alliance!
 * <a href="https://allmylinks.com/adriennevixen">Adrienne Vixen</a>
 * <a href="https://beacons.ai/llarry">Leaping Larry</a>
-* <a href="https://kick.com/leninsmesh">Lenin Smesh</a>
+* <a href="https://linktr.ee/leninsmesh">Lenin Smesh</a>
 * <a href="https://bsky.app/profile/mamaemmedia.bsky.social">Mama Em Media</a>
 * <a href="https://neuroriot.net/">Neuroriot</a>
 
