@@ -33,7 +33,6 @@ Follow the <a href="https://legal.twitch.com/legal/terms-of-service">Twitch TOS<
 * You do not provide links, or otherwise direct your community, to leave Twitch for your simulcast on other services because we value the community on Twitch and the integral role community engagement plays for all Twitch users.
 * You do not use third-party services that combine activity from other platforms or services on your Twitch stream during your Simulcast, such as merging chat or other features, to ensure the Twitch community is included in the entirety of the experience of your livestream.
 
-![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest.png){: .mx-auto.d-block :}
 
 Contact me to join our #DivestFromTwitch Alliance!
 * <a href="https://allmylinks.com/adriennevixen">Adrienne Vixen</a>
@@ -42,16 +41,12 @@ Contact me to join our #DivestFromTwitch Alliance!
 * <a href="https://bsky.app/profile/mamaemmedia.bsky.social">Mama Em Media</a>
 * <a href="https://neuroriot.net/">Neuroriot</a>
 
-![divest graphic by Adrienne Vixen](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_2.png){: .mx-auto.d-block :}
-
 Messages from our Partners
 * Mama Em Media - Hello my fellow comrades, due to the ongoing banning of our Communist and LGBTQIA+ comrades, we are starting a push to divest from Twitch. A few of us streaners have gotten together and started our own movement to finally hold Twitch to the grindstone about their clearly bigoted practices and we ask our comrades to join our movement! From the long standing permabans of Smeshy and Adrienne, through Leaping Larry, to the most recent victim of Twitch, LesbianHotSauce. We have stood here dehumanized by Twitch while larger streamers continue to help pump money into the pockets of Amazon, who actively pumps money into politics to do horrible tings like, but not limited to, lobbing for transphobic policies and laws. It's time to stand up! It't time to fight back! Join out movement! Boycott, Divest, Sanction!
 
-<details>
-<summary>Additional Graphics</summary>
-<ul>
-	![divest graphic alternate font](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_0.png){: .mx-auto.d-block :}
-	![divest graphic by Adrienne Vixen alt font](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_1.png){: .mx-auto.d-block :}
-</ul>
-</details>
+![divest graphic by Adrienne Vixen](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_2.png){: .mx-auto.d-block :}
+![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest.png){: .mx-auto.d-block :}
+![divest graphic alternate font](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_0.png){: .mx-auto.d-block :}
+![divest graphic by Adrienne Vixen alt font](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_1.png){: .mx-auto.d-block :}
+
 
