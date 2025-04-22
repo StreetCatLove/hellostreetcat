@@ -9,6 +9,7 @@ Twitch just temp banned our comrade <a href="https://www.youtube.com/@lesbianhot
 
 We are suggesting you consider taking the following actions as you are able:
 * Remove streamelements from stream, consider using firebot.app or <a href="https://github.com/StreetCatLove/streetcat_utils/blob/main/twitch-bot.py">DIY</a>
+* Do not refer to viewers as "refugees"
 * Discourage non-prime subs
 * Discourage buying bits
 * Disable hype trains
