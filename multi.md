@@ -11,7 +11,7 @@ First determine what version of OBS you have installed. This should be in the to
 * <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/">Github obs-multi-rtmp releases page</a>
 * <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.6.0.1-obs31/obs-multi-rtmp-0.6.0.1-windows-x64-Installer.exe">OBS 31 Windows exe Download</a>
 * <a href="https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.6.0.1/obs-multi-rtmp-0.6.0.0-windows-x64-Installer.exe">OBS 30 Windows exe Download</a>
-* If later you decide to upgrade to OBS 31, you will need to uninstall the old version and install the new one - your settings will transfer over
+* If later you decide to upgrade to OBS 31, you will need to uninstall the old version of the plugin and install the new one - your settings will transfer over
 
 Ensure OBS is not running, then run the exe to install. (or complete another installation method)
 
