@@ -13,6 +13,7 @@ We are suggesting you consider taking the following actions as you are able:
 * Discourage non-prime subs
 * Discourage buying bits
 * Disable hype trains
+* Don't base subathons on twitch subs
 * Promote buymeacoffee or similar over subs
 * <a href="https://streetcatlove.github.io/hellostreetcat/multi">Multi-stream</a> to as many platforms as possible
 * Prioritize other platforms in social media posts
