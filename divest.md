@@ -44,6 +44,7 @@ Contact me to join our #DivestFromTwitch Alliance!
 * <a href="https://neuroriot.net/">Neuroriot</a>
 * <a href="https://streetcatlove.github.io/ManaPua/">ManaPua</a>
 * <a href="https://streetcatlove.github.io/HashKush/">HashKush</a>
+* <a href="https://streetcatlove.github.io/JucheJulia/">Juche Julia</a>
 
 Messages from our Partners
 * Mama Em Media - Hello my fellow comrades, due to the ongoing banning of our Communist and LGBTQIA+ comrades, we are starting a push to divest from Twitch. A few of us streamers have gotten together and started our own movement to finally hold Twitch to the grindstone about their clearly bigoted practices and we ask our comrades to join our movement! From the long standing permabans of Smeshy and Adrienne, through Leaping Larry, to the most recent victim of Twitch, LesbianHotSauce. We have stood here dehumanized by Twitch while larger streamers continue to help pump money into the pockets of Amazon, who actively pumps money into politics to do horrible things like, but not limited to, lobbing for transphobic policies and laws. It's time to stand up! It's time to fight back! Join out movement! Boycott, Divest, Sanction!
