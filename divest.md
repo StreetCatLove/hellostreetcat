@@ -15,7 +15,7 @@ We are suggesting you consider taking the following actions as you are able:
 * Disable hype trains
 * Don't base subathons on twitch subs
 * Promote buymeacoffee or similar over subs
-* <a href="https://streetcatlove.github.io/hellostreetcat/multi">Multi-stream</a> to as many platforms as possible
+* Multi-stream to as many platforms as possible - <a href="https://streetcatlove.github.io/hellostreetcat/multi">our multi-stream guide</a>
 * Prioritize other platforms in social media posts
 * Move your twitch link off of bio, to the bottom of links page
 * No twitch chat on screen
@@ -29,6 +29,7 @@ We are suggesting you consider taking the following actions as you are able:
 * Make twitch sub emotes available to everyone
 * Plan a sunset date for your twitch content
 * Have a way to direct viewers to twitch ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">TwitchAdSolutions</a>
+* Use a timer with the <a href="https://github.com/StreetCatLove/recs">Content Recommendation Site</a> to promote our #DivestFromTwitch partners and other recommended creators
 
 Follow the <a href="https://legal.twitch.com/legal/terms-of-service">Twitch TOS</a>. The simulcasting guidelines are:
 * You ensure that the quality of Twitch users’ experience of your Simulcast is, at a minimum, no less than the experience on other platforms or services, including by your engagement with the Twitch community, for example, via chat.
