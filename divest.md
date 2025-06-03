@@ -5,30 +5,26 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-Twitch just temp banned our comrade <a href="https://www.youtube.com/@lesbianhotsauce">LesbianHotSauce</a> for her account name, forcing her to change it. This is just their latest in a long line of undeserved bans to leftist streamers including Leaping Larry, Lenin Smesh, Adrienne Vixen, and more. Amazon is a target of BDS. Its about time we #divestfromtwitch and create communities on other streaming sites 🍉
+Twitch recently temp banned our comrade <a href="https://www.youtube.com/@lesbianhotsauce">LesbianHotSauce</a> for her account name, forcing her to change it. This is just their latest in a long line of undeserved bans to leftist streamers including Leaping Larry, Lenin Smesh, Adrienne Vixen, and more. Amazon is a target of BDS. Its about time we #divestfromtwitch and create communities on other streaming sites 🍉
 
 We are suggesting you consider taking the following actions as you are able:
 * Remove streamelements from stream, consider using firebot.app or <a href="https://github.com/StreetCatLove/streetcat_utils/blob/main/twitch-bot.py">DIY</a>
 * Do not refer to viewers as "refugees"
-* Discourage non-prime subs
-* Discourage buying bits
-* Disable hype trains
-* Don't base subathons on twitch subs
-* Promote buymeacoffee or similar over subs
-* Multi-stream to as many platforms as possible - <a href="https://streetcatlove.github.io/hellostreetcat/multi">our multi-stream guide</a>
-* Prioritize other platforms in social media posts
-* Move your twitch link off of bio, to the bottom of links page
-* No twitch chat on screen
-* Remove verbal/on-screen/chat notifications of twitch events
+* Encourage viewers to support you on platforms with the least fees live ko-fi or buymeacoffee
+* Encourage viewers to support you on platforms divested from the colonization of Palestine
+* Consider alteratives to Hype Train or Subathons
+* Multi-stream to as many platforms as possible - <a href="https://streetcatlove.github.io/hellostreetcat/multi">our OBS multi-stream guide</a>
+* Prioritze social media platforms divested from the colonization of Palestine
+* Consider removing chat from your scenes or have a scene with chat for each platform
+* Prioritize support events equally across platforms
 * Prioritize chat interactions equally across platforms
-* Create alternatives to twitch points
-* Display a #divestfromtwitch graphic on screen
-* Use timers to remind chat to divest
+* Equalize viewer points and viewer interactivity equally across platforms
+* Display a #DivestFromTwitch graphic on screen
+* Use timers to inform viewers of #DivestFromTwitch
 * Add a !divest command
 * Add a divest pannel in your description
 * Make twitch sub emotes available to everyone
-* Plan a sunset date for your twitch content
-* Have a way to direct viewers to twitch ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">TwitchAdSolutions</a>
+* Have a way to direct viewers to ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">AdSolutions</a>
 * Use a timer with the <a href="https://github.com/StreetCatLove/recs">Content Recommendation Site</a> to promote our #DivestFromTwitch partners and other recommended creators
 
 Follow the <a href="https://legal.twitch.com/legal/terms-of-service">Twitch TOS</a>. The simulcasting guidelines are:
