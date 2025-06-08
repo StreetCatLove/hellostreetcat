@@ -10,7 +10,7 @@ Twitch recently temp banned our comrade <a href="https://www.youtube.com/@lesbia
 We are suggesting you consider taking the following actions as you are able:
 * Remove streamelements from stream, consider using firebot.app or <a href="https://github.com/StreetCatLove/streetcat_utils/blob/main/twitch-bot.py">DIY</a>
 * Do not refer to viewers as "refugees"
-* Encourage viewers to support you on platforms with the least fees live ko-fi or buymeacoffee
+* Encourage viewers to support you on platforms with the least fees like ko-fi, liberapay, or buymeacoffee
 * Encourage viewers to support you on platforms divested from the colonization of Palestine
 * Consider alteratives to Hype Train or Subathons
 * Multi-stream to as many platforms as possible - <a href="https://streetcatlove.github.io/hellostreetcat/multi">our OBS multi-stream guide</a>
