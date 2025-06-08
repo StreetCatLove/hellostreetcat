@@ -18,14 +18,14 @@ We are suggesting you consider taking the following actions as you are able:
 * Consider removing chat from your scenes or have a scene with chat for each platform
 * Prioritize support events equally across platforms
 * Prioritize chat interactions equally across platforms
-* Equalize viewer points and viewer interactivity equally across platforms
+* Equalize viewer points and viewer interactivity across platforms
 * Display a #DivestFromTwitch graphic on screen
 * Use timers to inform viewers of #DivestFromTwitch
 * Add a !divest command
 * Add a divest pannel in your description
-* Make twitch sub emotes available to everyone
+* Make twitch sub emotes available to everyone via BTTV or 7tv
 * Have a way to direct viewers to ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">AdSolutions</a>
-* Use a timer with the <a href="https://github.com/StreetCatLove/recs">Content Recommendation Site</a> to promote our #DivestFromTwitch partners and other recommended creators
+* Use a timer with the <a href="https://github.com/StreetCatLove/recs">Content Recommendation Site</a> to promote our #DivestFromTwitch partners, Gaza Aid Funds, and other recommended creators all at once
 
 Follow the <a href="https://legal.twitch.com/legal/terms-of-service">Twitch TOS</a>. The simulcasting guidelines are:
 * You ensure that the quality of Twitch users’ experience of your Simulcast is, at a minimum, no less than the experience on other platforms or services, including by your engagement with the Twitch community, for example, via chat.
