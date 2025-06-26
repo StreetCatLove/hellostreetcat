@@ -5,9 +5,9 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-In the bustling heart of the city, where the rhythm of life reverberated through the streets and the neon glow illuminated the night, there thrived an unconventional alliance among street cats known as the Piss Alliance. Led by their bold and charismatic leader, Mr. Piss, and backed by his steadfast comrades Mr. Fresh, Mr. Snack, and Mr. Void, they prowled the urban landscape with a fierce determination and an unwavering commitment to their cause.
+In the bustling Hello Streets, street cat fans noticed a pattern of cat behavior united across the city known as the Piss Alliance. Users believed the group was led by Mr. Piss, and backed by Mr. Fresh, Mr. Snack, Mr. Slam, and Mr. Void, among other street cats that may join in on their quest. 
 
-Their stronghold was a livestreamed feeder, a beacon of hope for the city's stray cats, where compassionate humans provided nourishment and shelter. Yet, amidst the abundance of food, the Piss Alliance had a peculiar habit—they occasionally marked their territory by anointing the feeder's provisions with a few drops of urine, a symbolic gesture of defiance against the oppressive forces that sought to control their lives.
+The Piss Alliance targets the livestreamed feeders, which provided nourishment and shelter for all street cats. They feel the need to marked their territory by anointing the feeder's provisions with a few drops of urine. Users believe these actions may be a symbolic gesture of defiance against the oppressive forces that sought to control their lives.
 
 But beyond their rebellious nature lay a deeper, more profound journey. Inspired by the teachings of Spinoza's Ethics, the members of the Piss Alliance delved into the realms of philosophy and metaphysics, seeking to unravel the mysteries of existence and the nature of God. Through their studies, they transcended the limitations of their feline forms, merging their consciousness with the divine essence of the universe.
 
