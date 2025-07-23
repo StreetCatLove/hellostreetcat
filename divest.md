@@ -27,9 +27,11 @@ Consider taking the following actions as you are able:
 * Have a way to direct viewers to ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">AdSolutions</a>
 * Use a timer with the <a href="https://github.com/StreetCatLove/recs">Content Recommendation Site</a> to promote our #Divest partners, Gaza Aid Funds, and other recommended creators all at once
 
+
 * <a href="https://bdsmovement.net/Guide-to-BDS-Boycott">BDS designates Google and Amazon as Pressure Targets</a>, reccomending "boycotts when reasonable alternatives exist, as well as lobbying, peaceful disruptions, social media pressure, strategic litigation, etc."
 * Project Nimbus, the joint $1.22 billion contract between Google and Amazon signed in 2021, provides cloud computing infrastructure, artificial intelligence and other technology services to the Israeli government and the Israeli military. Nimbus offers the platform for the Israeli military to run deadly AI programs such as Lavender and Gospel – crucial to the Gaza genocide.
 ![BDS target graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/bds.jpg){: .mx-auto.d-block :}
+
 
 Follow the <a href="https://legal.twitch.com/legal/terms-of-service">Twitch TOS</a>. The simulcasting guidelines are:
 * You ensure that the quality of Twitch users’ experience of your Simulcast is, at a minimum, no less than the experience on other platforms or services, including by your engagement with the Twitch community, for example, via chat.
