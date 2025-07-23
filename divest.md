@@ -24,10 +24,10 @@ Consider taking the following actions as you are able:
 * Add a !divest command
 * Add a divest pannel in your description
 * Make subscriber emotes available to everyone via BTTV or 7tv
-* Have a way to direct viewers to ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">AdSolutions</a>
+* Have a way to direct viewers to ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">AdSolutions</a> 
 * Use a timer with the <a href="https://github.com/StreetCatLove/recs">Content Recommendation Site</a> to promote our #Divest partners, Gaza Aid Funds, and other recommended creators all at once
 
-
+BDS Basics:
 * <a href="https://bdsmovement.net/Guide-to-BDS-Boycott">BDS designates Google and Amazon as Pressure Targets</a>, reccomending "boycotts when reasonable alternatives exist, as well as lobbying, peaceful disruptions, social media pressure, strategic litigation, etc."
 * Project Nimbus, the joint $1.22 billion contract between Google and Amazon signed in 2021, provides cloud computing infrastructure, artificial intelligence and other technology services to the Israeli government and the Israeli military. Nimbus offers the platform for the Israeli military to run deadly AI programs such as Lavender and Gospel – crucial to the Gaza genocide.
 ![BDS target graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/bds.jpg){: .mx-auto.d-block :}
@@ -50,8 +50,10 @@ Contact me to join our #Divest Alliance!
 * <a href="https://streetcatlove.github.io/HashKush/">HashKush</a>
 * <a href="https://streetcatlove.github.io/JucheJulia/">Juche Julia</a>
 
+
 Messages from our Partners
 * Mama Em Media - Hello my fellow comrades, due to the ongoing banning of our Communist and LGBTQIA+ comrades, we are starting a push to divest from Twitch. A few of us streamers have gotten together and started our own movement to finally hold Twitch to the grindstone about their clearly bigoted practices and we ask our comrades to join our movement! From the long standing permabans of Smeshy and Adrienne, through Leaping Larry, to the most recent victim of Twitch, LesbianHotSauce. We have stood here dehumanized by Twitch while larger streamers continue to help pump money into the pockets of Amazon, who actively pumps money into politics to do horrible things like, but not limited to, lobbing for transphobic policies and laws. It's time to stand up! It's time to fight back! Join out movement! Boycott, Divest, Sanction!
+
 
 ![divest graphic by Adrienne Vixen](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_2.png){: .mx-auto.d-block :}
 ![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_3.png){: .mx-auto.d-block :}
