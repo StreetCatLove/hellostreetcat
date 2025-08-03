@@ -9,7 +9,7 @@ One of our comrades <a href="https://twitch.tv/@lesbianhotsauce">LesbianHotSauce
 
 Consider taking the following actions as you are able:
 * StreamElements is complicit in the colonization of Palestine, do not use them to process donations if at all possible. For a bot, consider using firebot.app or <a href="https://github.com/StreetCatLove/streetcat_utils/blob/main/twitch-bot.py">our DIY python bot</a>
-* Do not refer to viewers as "refugees"
+* Do not refer to viewers as "refugees" use terms like "barbaric"
 * Encourage viewers to support you on platforms with the least fees like ko-fi, liberapay, or buymeacoffee
 * Encourage viewers to support you on platforms divested from the colonization of Palestine
 * Consider alteratives to stream events that may lead to viewers to support you on platforms complicit in the colonization of Palestine
