@@ -6,7 +6,7 @@ thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/bro_sty
 comments: false
 ---
 
-![Ms. Tux](https://streetcatlove.github.io/hellostreetcat/assets/img/bro_styles.png){: .mx-auto.d-block :}
+![Bro Styles](https://streetcatlove.github.io/hellostreetcat/assets/img/bro_styles.png){: .mx-auto.d-block :}
 
 * Brother Styles is a mostly white grey and brown tabby
 * Brother Styles had tabby markings on top of his head, 2 above his left shoulder, and lower back leading into his tail
