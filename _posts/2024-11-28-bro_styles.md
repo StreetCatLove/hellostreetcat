@@ -19,7 +19,11 @@ comments: false
 	<li><a href="https://youtu.be/RzMebKW08rY?t=63">9/19/24 00:16</a></li>
 	<li><a href="https://youtu.be/a56l4-SChfg?t=4575">11/19/24 15:07</a></li>
 	<li><a href="https://youtu.be/WxJZOuS5qCg?t=21449">12/7/24 18:57</a></li>
+	<li><a href="https://youtu.be/g7msnY1cXlc?t=38105">12/15/24 22:40</a></li>
+	<li><a href="https://youtu.be/EmcgtX0fhhM?t=5260">1/10/25 01:52</a></li>
 	<li><a href="https://youtu.be/nq2vzJC04Cw?t=32433">1/20/25 21:57</a></li>
+	<li><a href="https://youtu.be/FSPOGzHpMkw?t=33753">2/1/25 21:56</a></li>
+	<li><a href="https://youtu.be/FSPOGzHpMkw?t=33753">2/14/25 22:03</a></li>
 	<li><a href="https://youtu.be/8x6VOdtc770?t=27786">4/1/25 19:36</a></li>
 </ul>
 </details>
