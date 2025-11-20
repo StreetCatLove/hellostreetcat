@@ -5,14 +5,14 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-One of our comrades <a href="https://twitch.tv/@lesbianhotsauce">LesbianHotSauce</a> was recently temp banned for her account name, seemingly in an attempt to force her to change it. This is the latest in a long line of undeserved bans to leftist streamers including Leaping Larry, Lenin Smesh, Adrienne Vixen, and more. Its about time we #divest from a single platform and create communities on all streaming sites while adhering to <a href="https://www.bdsmovement.net/">BDS</a> reccomendations! 🍉
+Recently Twitch temp banned a fellow streamer for having "lesbian" in their account name, seemingly in an attempt to force them to change it. This is the latest in a long line of undeserved bans to leftist streamers including Leaping Larry, Lenin Smesh, Adrienne Vixen, and more. Its about time we #divest from a single platform and create intersectional communities on all streaming sites while adhering to <a href="https://www.bdsmovement.net/">BDS</a> reccomendations! 🍉
 
 Consider taking the following actions as you are able:
 * Create positive spaces for Colonized, Disabled, 2SLGBTQIA+ peoples
 * Multi-stream to as many platforms as possible to maximize you reach - <a href="https://streetcatlove.github.io/hellostreetcat/multi">our OBS multi-stream guide</a>
 * StreamElements is complicit in the colonization of Palestine, do not use them to process donations if at all possible. For a bot, consider using firebot.app or <a href="https://github.com/StreetCatLove/streetcat_utils/blob/main/twitch-bot.py">our DIY python bot</a>
 * Do not refer to viewers as "refugees", use terms like "barbaric" or "savage" towards BIPOC people, or resort to ableist language
-* Encourage viewers to support you on platforms with the least fees like ko-fi, liberapay, or buymeacoffee
+* Encourage viewers to support you on platforms with the least fees like ko-fi, liberapay, buymeacoffee, kick, or patreon
 * Encourage viewers to support you on platforms divested from the colonization of Palestine
 * Consider alteratives to stream events that may lead to viewers to support you on platforms complicit in the colonization of Palestine
 * Prioritze social media posts on platforms divested from the colonization of Palestine
