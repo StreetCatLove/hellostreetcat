@@ -5,7 +5,7 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-Recently Twitch temp banned a fellow streamer for having "lesbian" in their account name, seemingly in an attempt to force them to change it. This is the latest in a long line of undeserved bans to leftist streamers including Leaping Larry, Lenin Smesh, Adrienne Vixen, and more. Its about time we #divest from a single platform and create intersectional communities on all streaming sites while adhering to <a href="https://www.bdsmovement.net/">BDS</a> reccomendations! 🍉
+It's about time we #divest from a single platform and create intersectional communities on all streaming sites while adhering to <a href="https://www.bdsmovement.net/">BDS</a> reccomendations! 🍉
 
 Consider taking the following actions as you are able:
 * Create positive spaces for Colonized, Disabled, 2SLGBTQIA+ peoples
