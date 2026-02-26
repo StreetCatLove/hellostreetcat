@@ -5,7 +5,7 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-It's about time we #divest from a single platform and create intersectional communities on all streaming sites while adhering to <a href="https://www.bdsmovement.net/">BDS</a> reccomendations! 🍉
+It's about time we divest from a single streaming platform and create intersectional communities on all streaming sites while adhering to <a href="https://www.bdsmovement.net/">BDS</a> reccomendations! 🍉
 
 Consider taking the following actions as you are able:
 * Create positive spaces for Colonized, Disabled, 2SLGBTQIA+ peoples
@@ -19,8 +19,8 @@ Consider taking the following actions as you are able:
 * Prioritze social media posts on platforms divested from the colonization of Palestine
 * Consider removing chat from your scene or have a unique scene for each platform
 * Prioritize support events equally across platforms
-* Prioritize chat interactions equally across platforms
-* Equalize viewer points and viewer interactivity across platforms
+* Prioritize chat interaction equally across platforms
+* Equalize viewer interactivity across platforms
 * Display a Divest graphic on screen
 * Use timers to inform viewers of #Divest
 * Add a !divest command
@@ -42,7 +42,7 @@ Follow the <a href="https://legal.twitch.com/legal/terms-of-service">Twitch TOS<
 * <a href="https://help.twitch.tv/s/article/simulcasting-guidelines?language=en_US">Simulcasting FAQ</a>
 
 
-Contact me to join our #Divest Alliance!
+Contact me to join the Divest Alliance!
 * <a href="https://allmylinks.com/adriennevixen">Adrienne Vixen</a>
 * <a href="https://beacons.ai/llarry">Leaping Larry</a>
 * <a href="https://linktr.ee/leninsmesh">Lenin Smesh</a>
@@ -54,7 +54,7 @@ Contact me to join our #Divest Alliance!
 
 
 Messages from our Partners
-* Mama Em Media - Hello my fellow comrades, due to the ongoing banning of our Communist and LGBTQIA+ comrades, we are starting a push to divest from Twitch. A few of us streamers have gotten together and started our own movement to finally hold Twitch to the grindstone about their clearly bigoted practices and we ask our comrades to join our movement! From the long standing permabans of Smeshy and Adrienne, through Leaping Larry, to the most recent victim of Twitch, LesbianHotSauce. We have stood here dehumanized by Twitch while larger streamers continue to help pump money into the pockets of Amazon, who actively pumps money into politics to do horrible things like, but not limited to, lobbing for transphobic policies and laws. It's time to stand up! It's time to fight back! Join out movement! Boycott, Divest, Sanction!
+* Mama Em Media (4/21/25) - Hello my fellow comrades, due to the ongoing banning of our Communist and LGBTQIA+ comrades, we are starting a push to divest from Twitch. A few of us streamers have gotten together and started our own movement to finally hold Twitch to the grindstone about their clearly bigoted practices and we ask our comrades to join our movement! From the long standing permabans of Smeshy and Adrienne, through Leaping Larry, to the most recent victim of Twitch, LesbianHotSauce. We have stood here dehumanized by Twitch while larger streamers continue to help pump money into the pockets of Amazon, who actively pumps money into politics to do horrible things like, but not limited to, lobbing for transphobic policies and laws. It's time to stand up! It's time to fight back! Join out movement! Boycott, Divest, Sanction!
 
 
 ![divest graphic by Adrienne Vixen](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_2.png){: .mx-auto.d-block :}
