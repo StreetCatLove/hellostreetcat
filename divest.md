@@ -13,7 +13,7 @@ Consider taking the following actions as you are able:
 * Plaftorms like <a href="https://kick.com/">Kick</a>, <a href="https://www.nimo.tv/">Nimo</a>, <a href="https://www.sooplive.com/">SOOP</a>, and <a href="https://trovo.live/">Trovo</a> are not owned by BDS listed companies
 * StreamElements is complicit in the colonization of Palestine, do not use them to process donations if at all possible. For a bot, consider using <a href="https://firebot.app/">firebot</a> or <a href="https://github.com/StreetCatLove/streetcat_utils/blob/main/twitch-bot.py">our DIY python bot</a>
 * Do not refer to viewers as "refugees", use terms like "barbaric" or "savage" towards BIPOC people, or resort to ableist language
-* Encourage viewers to support you on platforms with the least fees like <a href="https://ko-fi.com/">ko-fi</a>, <a href="https://en.liberapay.com/">liberapay</a>, <a href="https://buymeacoffee.com/">buymeacoffee</a>, <a href="https://kick.com/">Kick</a>, or <a href"https://www.patreon.com/home">patreon</a>
+* Encourage viewers to support you on platforms with the least fees like <a href="https://ko-fi.com/">ko-fi</a>, <a href="https://en.liberapay.com/">liberapay</a>, <a href="https://buymeacoffee.com/">buymeacoffee</a>, <a href="https://kick.com/">Kick</a>, or <a href="https://www.patreon.com/home">patreon</a>
 * Encourage viewers to support you on platforms divested from the colonization of Palestine
 * Consider alteratives to stream events that may lead to viewers to support you on platforms complicit in the colonization of Palestine
 * Prioritze social media posts on platforms divested from the colonization of Palestine
