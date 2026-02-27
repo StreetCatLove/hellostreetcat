@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Divest
+title: Streamers of all Countries, Divest!
 tags: [Forbidden Knowledge]
 comments: false
 ---
 
-It's about time we divest from a single streaming platform and create intersectional communities on all streaming sites while adhering to <a href="https://www.bdsmovement.net/">BDS</a> reccomendations! 🍉
+It's about time we divest from a single streaming platform and create intersectional communities on all streaming sites while adhering to <a href="https://www.bdsmovement.net/">BDS</a> recommendations! 🍉
 
 Consider taking the following actions as you are able:
 * Create positive spaces for Colonized, Disabled, 2SLGBTQIA+ peoples
@@ -16,18 +16,15 @@ Consider taking the following actions as you are able:
 * Encourage viewers to support you on platforms with the least fees like <a href="https://ko-fi.com/">ko-fi</a>, <a href="https://en.liberapay.com/">liberapay</a>, <a href="https://buymeacoffee.com/">buymeacoffee</a>, <a href="https://kick.com/">kick</a>, or <a href="https://www.patreon.com/home">patreon</a>
 * Encourage viewers to support you on platforms divested from the colonization of Palestine
 * Consider alteratives to stream events that may lead to viewers to support you on platforms complicit in the colonization of Palestine
-* Prioritze social media posts on platforms divested from the colonization of Palestine
-* Consider removing chat from your scene or have a unique scene for each platform
-* Prioritize support events equally across platforms
-* Prioritize chat interaction equally across platforms
+* Prioritze social media posts of platforms divested from the colonization of Palestine
+* Prioritize support events and chat interaction equally across platforms
 * Equalize viewer interactivity across platforms
 * Display a Divest graphic on screen
-* Use timers to inform viewers of #Divest
+* Use timers to inform viewers of the Divest recommendations or <a href="https://github.com/StreetCatLove/recs">Content recommendations</a>
 * Add a !divest command
 * Add a divest pannel in your description
 * Make subscriber emotes available to everyone via BTTV or 7tv
-* Have a way to direct viewers to ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">AdSolutions</a> 
-* Use a timer with the <a href="https://github.com/StreetCatLove/recs">Content Recommendation Site</a> to promote our #Divest partners, Gaza Aid Funds, and other recommended creators all at once
+* Have a way to direct viewers to ad block tools like <a href="https://github.com/pixeltris/TwitchAdSolutions">AdSolutions</a>
 
 BDS Basics:
 * <a href="https://bdsmovement.net/Guide-to-BDS-Boycott">BDS designates Google and Amazon as Pressure Targets</a>, reccomending "boycotts when reasonable alternatives exist, as well as lobbying, peaceful disruptions, social media pressure, strategic litigation, etc."
@@ -58,6 +55,6 @@ Messages from our Partners
 
 
 ![divest graphic by Adrienne Vixen](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_2.png){: .mx-auto.d-block :}
-![divest graphic](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_3.png){: .mx-auto.d-block :}
+![divest graphic by street cat](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_3.png){: .mx-auto.d-block :}
 
 
