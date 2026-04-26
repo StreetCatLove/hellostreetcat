@@ -55,6 +55,6 @@ Messages from our Partners
 
 
 ![divest graphic by Adrienne Vixen](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_2.png){: .mx-auto.d-block :}
-![divest graphic by street cat](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_3.png){: .mx-auto.d-block :}
+![divest graphic by street cat](https://streetcatlove.github.io/hellostreetcat/assets/img/divest_1.png){: .mx-auto.d-block :}
 
 
