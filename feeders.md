@@ -27,9 +27,9 @@ Appears in the top right of the stream. A duo of feeders kept by caretakers Bald
 ![qr to dress](https://streetcatlove.github.io/hellostreetcat/assets/qr/tk.png){: .mx-auto.d-block :}
 Appears in the middle left of the stream. Home to the notorious Ms. Dress and friends!
 
-Happy Cat House No.2
-![qr to mr fall](https://streetcatlove.github.io/hellostreetcat/assets/qr/mf.png){: .mx-auto.d-block :}
-Appears in the middle right of the stream. Also known as Mr. Fall. Airplane Kitten and Lil Pather can be seen eating here.
+Cat Mojo
+![qr to cat mojo](https://streetcatlove.github.io/hellostreetcat/assets/qr/cm.png){: .mx-auto.d-block :}
+Appears in the middle right of the stream. This is where Mr. Fresh currently lives!
 
 Lucky 7-11 II
 ![qr to lucky 7-11 ii](https://streetcatlove.github.io/hellostreetcat/assets/qr/l7.png){: .mx-auto.d-block :}
