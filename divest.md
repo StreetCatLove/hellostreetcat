@@ -10,6 +10,7 @@ It's about time we divest from a single streaming platform and create intersecti
 Consider taking the following actions as you are able:
 * Create positive spaces for Colonized, Disabled, 2SLGBTQIA+ peoples
 * Multi-stream to as many platforms as possible to maximize you reach - <a href="https://streetcatlove.github.io/hellostreetcat/multi">our OBS multi-stream guide</a>
+* Disable Twitch using your data to Train Generative AI - <a href="https://streetcatlove.github.io/hellostreetcat/twitchai">our guide to disable it</a>
 * Plaftorms like <a href="https://kick.com/">Kick</a>, <a href="https://www.nimo.tv/">Nimo</a>, <a href="https://stream.place/">StreamPlace</a>, and <a href="https://velora.tv/">Velora</a> are not owned by BDS listed companies
 * StreamElements is complicit in the colonization of Palestine, do not use them to process donations if at all possible. For a bot, consider using <a href="https://firebot.app/">firebot</a> or <a href="https://github.com/StreetCatLove/streetcat_utils/blob/main/twitch-bot.py">our DIY python bot for Twitch</a>
 * Do not refer to viewers as "refugees", use terms like "barbaric" or "savage" towards BIPOC people, or resort to ableist language
