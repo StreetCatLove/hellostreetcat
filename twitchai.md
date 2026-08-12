@@ -5,8 +5,6 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-<h2>Disable Twitch Generative AI Training</h2>
-
 First navigate to the Settings and Privacy tab of Twitch settings.
 * <a href="https://www.twitch.tv/settings/security">Twitch Settings and Privacy Settings</a>
 
